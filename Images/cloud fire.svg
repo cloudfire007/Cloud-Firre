@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="181" height="161" viewBox="0 0 181 161">
+  <g id="Group_253" data-name="Group 253" transform="translate(-13940 -2322.489)">
+    <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(13968 2322.489)" fill="none" stroke="#020831" stroke-width="11">
+      <ellipse cx="62.5" cy="62" rx="62.5" ry="62" stroke="none"/>
+      <ellipse cx="62.5" cy="62" rx="57" ry="56.5" fill="none"/>
+    </g>
+    <text id="C" transform="translate(14002 2411.489)" fill="#000001" font-size="75" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">C</tspan></text>
+    <path id="Path_1" data-name="Path 1" d="M21.688,98.5S34.214,68.682,73.58,65.1s35.191-42.348,35.191-42.348" transform="translate(13961.417 2319.283)" fill="none" stroke="#020831" stroke-width="7"/>
+    <text id="CLOUD_FIRE" data-name="CLOUD FIRE" transform="translate(13940 2475.489)" fill="#000001" font-size="32" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">CLOUD FIRE</tspan></text>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="5.5" cy="5" rx="5.5" ry="5" transform="translate(14001 2340.489)" fill="#020831"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="5" cy="5.5" rx="5" ry="5.5" transform="translate(14057 2406.489)" fill="#020831"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="3" cy="2.5" rx="3" ry="2.5" transform="translate(14003 2343.489)" fill="#fff"/>
+  </g>
+</svg>

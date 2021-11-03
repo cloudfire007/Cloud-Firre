@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="234" height="40" viewBox="0 0 234 40">
+  <g id="Group_269" data-name="Group 269" transform="translate(-482 -661)">
+    <g id="Group_2" data-name="Group 2" transform="translate(482 661.772)">
+      <path id="Path_1" data-name="Path 1" d="M0,0H39.228V39.228H0Z" fill="none" stroke="#000" stroke-width="0"/>
+      <path id="Path_2" data-name="Path 2" d="M22.08,16.751l-4.985-3.743V27.719l4.985-3.743L26.9,20.363Zm0,0-4.985-3.743V27.719l4.985-3.743L26.9,20.363Zm0,0-4.985-3.743V27.719l4.985-3.743L26.9,20.363ZM18.729,7.4V4.1a16.261,16.261,0,0,0-8.7,3.612l2.321,2.337A12.98,12.98,0,0,1,18.729,7.4ZM10.05,12.354,7.712,10.033a16.262,16.262,0,0,0-3.612,8.7H7.4a12.98,12.98,0,0,1,2.648-6.375ZM7.4,22H4.1a16.261,16.261,0,0,0,3.612,8.7l2.337-2.337A12.86,12.86,0,0,1,7.4,22Zm2.632,11.017a16.315,16.315,0,0,0,8.7,3.612v-3.3a12.98,12.98,0,0,1-6.375-2.648l-2.321,2.337ZM36.709,20.363A16.37,16.37,0,0,1,22.08,36.627v-3.3a13.075,13.075,0,0,0,0-25.923V4.1A16.37,16.37,0,0,1,36.709,20.363Z" transform="translate(-0.79 -0.749)" fill="#010101" stroke="#000" stroke-width="0"/>
+    </g>
+    <text id="Watch_a_video" data-name="Watch a video" transform="translate(528 693)" font-size="30" font-family="SegoeUI, Segoe UI" text-decoration="underline"><tspan x="0" y="0">Watch a video</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,233 @@
+body {
+  background-color: #f2f2f2;
+  margin: 0em;
+  font-family: poppins;
+}
+
+.navbar {
+  background: black;
+  padding: 1.1em;
+}
+
+span {
+  color: #002fff;
+}
+
+.cloud {
+  margin-right: 7em;
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.features {
+  margin-right: 5em;
+  color: white;
+  text-decoration: none;
+}
+
+.features4 {
+  font-weight: bold;
+  margin-right: 5em;
+  color: white;
+  text-decoration: none;
+}
+
+.features1 {
+  margin-right: 30em;
+  color: white;
+  text-decoration: none;
+}
+
+.features2 {
+  border-radius: 100em;
+  padding: 0.5em 0.7em;
+  background: #002fff;
+  margin-right: 2.5em;
+  color: white;
+  text-decoration: none;
+}
+
+.features3 {
+  color: white;
+}
+
+.text {
+  margin-top: 13em;
+  margin-left: 6em;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #525252;
+}
+
+.text2 {
+  margin-top: 0.2em;
+  margin-left: 1.9em;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  font-size: 2.9em;
+  width: 13em;
+}
+
+.ill {
+  margin-top: -14em;
+  margin-left: 57em;
+  height: 18.9em;
+}
+
+.matha {
+  margin-top: -18.3em;
+  margin-left: 7em;
+  list-style-type: none;
+  color: white;
+  margin-bottom: 1em;
+}
+
+.matha li {
+  text-align: left;
+  margin-left: 4em;
+  margin-bottom: 1.7em;
+}
+
+.ki {
+  height: 32em;
+  margin-top: 10em;
+  background: #060022;
+  padding: 0.8em;
+}
+
+.bu {
+  margin-left: 10em;
+  margin-top: 9em;
+}
+
+.bullet {
+  height: 18em;
+}
+
+.pex {
+  margin-top: -12em;
+  margin-left: 50em;
+  border-radius: 2em;
+}
+
+.testmonials {
+  background: blue;
+}
+
+.card {
+  margin-left: 1em;
+  margin-top: 8em;
+  height: 21em;
+  padding: 5em;
+}
+
+.Contact {
+  margin-left: 0.2em;
+  font-size: 3em;
+  font-weight: 500;
+  margin-bottom: 2em;
+}
+
+input {
+  margin-bottom: -10em;
+  background: #ffffff;
+  border: 1px solid gray;
+  width: 19%;
+  height: 1.9em;
+}
+
+.contact {
+  padding: 3em;
+}
+
+.conta {
+  margin-left: -1em;
+  font-size: 3em;
+  font-weight: 500;
+}
+
+.bi {
+  margin-top: -2em;
+  margin-left: 3em;
+}
+
+.nametxt {
+  font-weight: 500;
+  margin-left: -2.4em;
+}
+
+input, textarea {
+  border-radius: 1em;
+  padding: 0.5em;
+  width: 23em;
+}
+
+iframe {
+  margin-top: -28em;
+  margin-left: 44em;
+  margin-bottom: 4em;
+  border-radius: 2em;
+}
+
+.all {
+  margin-top: -1em;
+}
+
+.send {
+  margin-top: 2em;
+}
+
+.se {
+  text-decoration: none;
+  color: white;
+  background: #006eff;
+  padding: .4em 1em;
+  border-radius: 50em;
+  font-size: 1em;
+}
+
+.try {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: white;
+  background: #002fff;
+  padding: 0.4em 0.7em;
+  border-radius: 500em;
+  margin-left: 7em;
+}
+
+.try {
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.2em;
+  color: white;
+  background: #002fff;
+  padding: 0.4em 0.7em;
+  border-radius: 500em;
+  margin-left: 7em;
+}
+
+.tr {
+  margin-top: -2em;
+}
+
+.wat {
+  margin-left: 18em;
+  margin-top: -1.5em;
+}
+
+.watch {
+  color: black;
+}
+
+.b {
+  margin-right: 0.5em;
+}
+
+.task {
+  margin-top: -1em;
+}
+/*# sourceMappingURL=main.css.map */
